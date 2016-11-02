@@ -5,6 +5,7 @@
 
 .navbar {
   margin: 0;
+  background-color: lightblue;
 }
 
 .page-title {
@@ -18,7 +19,7 @@
 }
 
 .menu-item {
-  background-color: lightgreen;
+  background-color: lightblue;
 }
 
 .menu-title {
@@ -28,7 +29,7 @@
 
 @media (max-width: 767px) {
   #bs-navbar-collapse {
-    background-color: lightgreen;
+    background-color: lightblue;
   }
 
 }
