@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.navbar {
+  margin: 0;
+}
+
+.page-title {
+  font-size: 1.5em;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.row {
+  margin: 5px;
+}
+
+.menu-item {
+  background-color: lightgreen;
+}
+
+.menu-title {
+  font-size: 1.2em;
+  margin-top: 5px;
+}
+
+@media (max-width: 767px) {
+  #bs-navbar-collapse {
+    background-color: lightgreen;
+  }
+
+}
